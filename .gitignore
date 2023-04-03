@@ -1,4 +1,4 @@
-Generation_python/.venv
-Generation_python/.idea
-Egoroff_indi/.venv
-Egoroff_indi/.idea
+Generation_python/.venv/*
+Generation_python/.idea/*
+Egoroff_indi/.venv/*
+Egoroff_indi/.idea/*
