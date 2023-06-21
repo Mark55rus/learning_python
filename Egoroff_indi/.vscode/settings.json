@@ -1,0 +1,17 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length", "120", "--experimental"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "files.autoSave": "afterDelay",
+    "editor.rulers": [
+        120
+    ]
+}
